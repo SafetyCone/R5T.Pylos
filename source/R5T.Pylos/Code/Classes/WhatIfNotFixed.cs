@@ -5,6 +5,6 @@ namespace R5T.Pylos
 {
     public static class WhatIfNotFixed
     {
-        public const string Name = "WhatIfNotFixed";
+        public const string Name = TextItemTypeName.WhatIfNotFixed;
     }
 }

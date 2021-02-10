@@ -5,6 +5,6 @@ namespace R5T.Pylos
 {
     public static class HowThisHappened
     {
-        public const string Name = "HowThisHappened";
+        public const string Name = TextItemTypeName.HowThisHappened;
     }
 }
